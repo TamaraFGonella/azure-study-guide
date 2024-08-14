@@ -1,9 +1,15 @@
 Alta disponibilidad. Herramientas que tenemos a disposicion si podemos afrontar en costo. Soluciones para brindar alta disponibilidad 
 para garantizar la operatibilidad del servicio. (Siempre ofrecer alta disponibilidad para no tener excusa por si el servicio se cae. Sujeto 
 a empresa)
-CONSULTAR SOBRE TIEMPO DE INACTIVIDAD. 
+Azure cuenta con mas de 57 datacenters, los clientes pueden solicitar los servicios en la region mas cercana a ellos buscando el mejor
+rendimiento. 
+Se tiene en cuenta la velocidad de respuesta (LATENCIA). 
+Recuperacion ante desastres (Azure Backup - Azure Site Recovery) Permite a la empresa crear estrategias para la recuperacion ante desastres 
+y asegurar la disponibilidad de los servicios catalogados como criticos.
+Con la replicacion se asegura que los servicios no sufran interrupciones. 
 
+Cluster: Es un grupo de servidores que trabajan juntos para mantener el servicio operativo. 
+Nodo: Se le llama a cada servidor. NODO 1 y NODO 2. Uno activo y uno pasivo. Cuando por tarea de mantenimiento o tarea de 
+parcheo es preciso apagar o reiniciar un servidor.
+Cuando el NODO 1 se baja automaticamente toma la actividad el NODO 2 para mantener el servicio levantado. 
 
-failover
-RAC
-agilidad 
