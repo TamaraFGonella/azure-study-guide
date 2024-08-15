@@ -1,0 +1,15 @@
+On-Premises (On-Prem): La infraestructura está físicamente en las instalaciones de la empresa.
+La empresa se encarga de comprar, mantener y asegurar todo el hardware y software.
+La misma tiene que estar ambientada y preparada para mantener los servidores. Es la manera tradicional. 
+Problemas con el enfoque tradicional en TI:
+1. Hay que pagar alquiler.
+2. Hay que pagar el suministro electrico, la refrigeracion y el mantenimiento. 
+3. Gestionar manualmente el hardware. 
+4. El escalado es limitado. Si los usuarios se incrementan corresponde añadir mas servidores, mas espacio, mas suministro, 
+mas administracion. En definitiva, mas gasto.
+5. Ademas, mas propenso a perder todos los datos en caso de una catastrofe
+¿que sucede si el espacio fisico se incendia, un terremoto o un apagon? 
+
+Cloud: La infraestructura está en servidores de terceros, como Azure o AWS.
+La empresa paga por usar estos recursos, que son gestionados y mantenidos por el proveedor de la nube.
+
