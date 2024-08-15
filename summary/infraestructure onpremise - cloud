@@ -12,4 +12,11 @@ mas administracion. En definitiva, mas gasto.
 
 *Cloud:* La infraestructura está en servidores de terceros, como Azure o AWS.
 La empresa paga por usar estos recursos, que son gestionados y mantenidos por el proveedor de la nube.
+1. Suministro bajo demanda, se hace mediante una plataforma con precio de pago por uso. 
+2. Se puede solicitar exactamente el tipo de tamaño y los recursos que se precisen en cuestion de segundos. 
+3. Posee y mantiene todo el hardware conectado a la red. 
+4. Existen datacenters donde hay contenedores donde se encuentran los servidores. Existe todo una infraestructura preparada
+para mantener servidores frescos en todo momento. (Existen centro de datos por todo el mundo). 
+5. Nosotros contratamos los servicios, Cloud lo mantiene. 
+
 
