@@ -1,0 +1,40 @@
+Sobre caracteristicas: 
+
+• On-demand (autoservicio): Los usuarios pueden adquirir recursos necesarios y utilizarlos sin la interaccion humana
+  del proveedor de servicios.
+
+• Amplio acceso a la red: Los servicios estan disponibles en la red y pueden accederse a ellos por diversas
+plataformas. (Como portal de Microsoft Azure o Amazon web Services). 
+
+• Alquiler multiple y agrupacion de recursos: Varios clientes pueden utilizar la misma infraestructura y aplicaciones
+con seguridad y privacidad sin que los datos sean compartidos con los clientes. (Multiples clientes reciben servicios de los
+mismos recursos fisicos).
+
+• Rapida elasticidad y escalabilidad: Permite adquirir recursos necesarios de manera rapida cuando sea necesario. 
+  Podemos escalar rapidamente en funcion de la demanda. 
+
+• Servicio medido: El uso se mide y el usuario abona solamente por lo que se utilizo. 
+
+ Sobre costos:  
+
+  Se puede cambiar el gasto de capital (CAPEX) por el gasto operativo (OPEX) porque se paga bajo demanda. 
+  (No vamos a poseer el hardware). Eso provoca la reduccion del coste total de propiedad (TCO) por el 
+gasto operativo. (OPEX). 
+Beneficio de economia a escala masiva: Los gastos se reducen ya que Azure es mas eficiente debido a gran escala. 
+Escala basada en el uso real medido. 
+  Tambien, aumenta la velocidad y agilidad. 
+  Ventaja mas importante: Deja de gastar dinero en centro de datos y mantenimiento. 
+Basicamente brinda la posibilidad de ser globales en minutos. 
+
+sobre problemas resueltos con Cloud: 
+
+• Flexibilidad: Cambiamos tipo de recursos cuando querramos. 
+• Rentabilidad: Se paga solo por uso. 
+• Escalabilidad: Se refuerza el hardware o se añade nodos adicionales. Si tenemos mas usuarios, añadimos mas servidores.  
+• Elasticidad: Aumenta o disminuye la carga automaticamente tal sea necesario. 
+• Alta disponibilidad y tolerancia a fallos: Construye a traves de diferentes datacenters, en caso que uno falle o
+este en mantenimiento, nuestra informacion nunca esta solo en un centro de datos. Podemos dar respuesta todo el tiempo.
+• Agilidad: Permite desarrollar, testear y lanzar rapidamente aplicaciones de software. 
+  
+
+  
