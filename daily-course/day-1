@@ -1,0 +1,20 @@
+Cloud Computing: Pago por uso.
+  Reconocer que no se utiliza para eliminarlo para no ocasionar gastos. (Con las precauciones precisas)
+
+  Monitoreo automatico constante: Microsoft asegura que el recurso de monitoreo este operando, depende de region el recurso. 
+El monitoreo se realiza a nivel de maquina virtual y de los recursos.
+
+    Altas medidas de seguridad: Por contrato de privacidad la informacion que se aloje es totalmente privada. La informacion esta encriptada.
+La informacion no es accesible para el provedor de la nube.
+
+      Alta disponibilidad: 
+      Replicacion. Se puede asegurar la informacion replicando en otro datacenter de otra region. Generalmente definido por Microsoft. 
+Administracion personalizada: Flexibilidad de manejar nuestros recursos a medida que exista la necesidad. 
+
+  SLA que ofrece Microsoft: Microsoft asegura que el recurso estara disponible.
+
+    ¿Que podemos comprar en Cloud Computing? 
+Almacenamiento 
+Procesamiento 
+Soluciones 
+Redes
