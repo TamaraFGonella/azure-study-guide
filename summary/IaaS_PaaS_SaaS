@@ -1,0 +1,12 @@
+Infraestructura como servicio (IaaS): 
+Proporciona bloques de construccion para la IT en Cloud. Es decir, proporciona redes, ordenadores y espacio de almacenamiento
+de datos. Tiene maximo nivel de flexibilidad. Facil paralelismo con la infra tradicional en las instalaciones. 
+Ejemplo: Azure Virtual Machines (Microsoft) EC2 (AMS). GCP, Rackspace, Digital Ocean, Linode, etc. 
+
+Plataforma como servicio (PaaS): Elimina la necesidad que la empresa construya la infraestructura subyacente porque
+se centra en el despliegue y gestion de aplicaciones. 
+Ejemplo: Azure App Service (Azure), Elastic Beanstalk (AWS) Google App Engine (GCP). 
+
+Software como servicio. (SaasS): Producto completo que ya fue realizado y gestionado por el proveedor de servicios.
+Ejemplo: Google Workspace (G-mail), Dropbox, Zoom. 
+
