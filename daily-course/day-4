@@ -1,1 +1,19 @@
-hola
+un recurso tiene que ser parte de un grupo de trabajo y el mismo en una suscripcion valida. 
+podemos tener suscripciones ilimitadas. 
+las suscripciones pueden estar separadas con ambientes. (dev, testing, prod)
+el grupo de recurso se puede crear antes o mediante la creacion de recurso. 
+consultar : IMAGE EN AZURE. especie de sistema operativo. herramienta de monitoreo
+agente de antivirus. 
+
+Division de responsabilidad. 
+IAAS: Replicar on-prem con la nube. 
+PAAS: Para migrar hay que tener en cuenta compatabilidad ya que por default 
+Microsoft instala la ultima version. Conviene donde la compatibilidad no sea lo primordial.
+SAAS: aplicativo depende pura y exclusivamente de Microsoft, nuestra responsabilidad
+es que se hace dentro del servicio
+aka.ms/az900/sandbox loguearse con una cuenta para ingresar al portar y practicar. 
+
+
+
+
+
