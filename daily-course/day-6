@@ -1,0 +1,45 @@
+sandbox = te ofrece para poder practicar. 
+maquina virtual, servicio tipo IAAS. los dueños y las modificaciones la realizamos nosotros. 
+hay que instalarle el sistema operativo. Cloud ofrece la posibilidad de elegir entre varias imagenes
+(sistema operativo). 
+
+  TAREA: crear maquina virtual. 
+    dentro del portal verificar suscripciones. 
+    esperar que se habilite suscripcion.
+  entrar a la suscripcion. hay un grupo de recursos ya creado.
+    ya crea una cuesta de almacenamiento. todo corre sobre este espacio CLOUD-SHELL (seria como un disco). 
+    cse puede crear un recurso desde la linea de comando o desde el portal. 
+AZ CLI (linea de comando). 
+  desde marketplace AZ se adquieren los recursos. 
+    crear maquina virtual. 
+    si o si, suscripcion. (se puede tener mas) elegir sobre la que vamos a crear el recurso. 
+      grupo de recurso (donde va a estar alojada la VM)
+      nombre (nombre de instancia)
+      region (default).
+      imagen = sistema operativo. 
+      tipo de seguridad = inicio seguro, protegido de virus. 
+        tamaño = perfil de hardware. 
+        (en funcion a la aplicacion y que recursos requieran se seleccionan las opciones). 
+        habilitar hibernacion = equipo cuando la pc esta sin uso y despues de un tiempo se active. 
+        cuenta de administrador = se puede conectar mediante clave SSH (genera un par de keys para 
+                                                                      conectarse generalmente Linux)
+        o puede conectarse mediante contraseña cumpliendo requerimientos que utiliza el administrador
+        para conectarse a la maquina virtual que estamos creando. 
+        network security group = controla ingreso y egreso de trafico a la vm. es un firewall que protege la vm
+        puerto = el puerto tiene que estar abierto para establecer la conexion. (port 22 por defecto Linux)
+        tipo de disco del sistema operativo = local (datacenter). espacio de almacenamiento. (tiene replica de alta disponibilidad)
+        eliminar con VM = cuando se elimine la vm se eliminan los recursos dependientes.
+        administraion de clave = informacion en disco duro esta encriptado. (lo manera Microsoft). 
+        se pueden agregar tales discos decidamos. (adjuntar volumenes). 
+        2 discos que uno utiliza para tareas de mantenimiento propia de Microsoft. 
+
+        redes. ESTUDIAR REDES. 
+        direccion de red. CIDR. 
+        
+        
+        
+        
+        
+        
+        
+        
