@@ -1,0 +1,63 @@
+Pregunta 1:
+Sólo quieres gestionar aplicaciones y datos. ¿Qué tipo de modelo de Cloud Computing deberías utilizar?
+1. ON PREM
+2. IAAS
+3. SAAS
+4. PAAS ✓
+
+Pregunta 2:
+¿Cuál es el modelo de precios del Cloud Computing?
+1. Descuentos en el tiempo
+2. Precios de pago por uso. 
+3. Pagar una vez al año. ✓
+4. Precios de tarifa plana 
+
+Pregunta 3:
+¿Cuál de las siguientes NO es una de las cinco características del Cloud Computing?
+1. Rapida elasticidad y escalabilidad 
+2. Alquiler multiple y agrupacion de recursos. 
+3. Agente de soporte dedicado para ayudarte a desplegar aplicaciones. ✓
+4. Autoservicio bajo demanda. 
+Ésta no es una de las cinco características de el Cloud Computing. En el Cloud, todo es autoservicio bajo demanda.
+
+Pregunta 4:
+¿Cuáles son los 3 fundamentos de los precios del Cloud de Azure?
+1. Computacion, almacenamiento y transferencia de datos en el Cloud de Azure. 
+2. Computacion, redes y transferencia de datos fuera del Cloud de Azure. 
+3. Computacion, almacenamiento y transferencia de datos fuera del Cloud de Azure. ✓
+4. Almacenamiento, funciones y transferencia de datos en el Cloud de Azure. 
+La computación, el almacenamiento y la transferencia de datos fuera del Cloud de Azure son los 3 fundamentos de los precios.
+
+Pregunta 5:
+¿Cuál de las siguientes NO es una ventaja del Cloud Computing?
+1. Cambia el gasto capital (CAPEX) por el gasto operativo (OPEX). 
+2. Forma menos a tus empleados. ✓
+3. Hazte global en minutos.
+4. Deja de gastar dinero en mantenimiento y y funcionamiento de centro de datos. 
+
+Pregunta 6:
+¿Cuál de las siguientes es la definición de Cloud Computing?
+1. Desarrollar, testear y lanzar rapidamiente aplicaciones de software. 
+2. Capacidad automatica y rapida de adquirir recursos y liberar cuando ya no se precisan. 
+3. Disponibilidad bajo demanda de los recursos de un sistema informatico, espacialmente del almacenamiento de datos
+(almacenamiento en la nube) y de la potencia de calculo sin una gestion activa por parte del usuario. ✓ 
+4. Cambia los recursos cuando sea necesario. 
+
+Pregunta 7:
+¿Qué define el reparto de responsabilidades en materia de seguridad en el Cloud de Azure?
+1. Fundamento de los precios. 
+2. El modelo de responsabilidad compartida. ✓
+3. La politica de uso aceptable. 
+4. La consola de gestion. 
+El modelo de responsabilidad compartida define quién es responsable de qué en el Cloud de Azure.
+
+Pregunta 8:
+Una empresa quiere beneficiarse de las ventajas del cloud público,
+pero quiere mantener los activos sensibles en su propia infraestructura.
+¿Qué modelo de despliegue debería utilizar la empresa?
+1. Cloud privado.
+2. Cloud publico. 
+3. Cloud hibrido. ✓
+El uso de un modelo de despliegue de Cloud híbrido te permite beneficiarte de la flexibilidad, la escalabilidad
+y el acceso al almacenamiento bajo demanda,
+manteniendo la seguridad y el rendimiento de tu propia infraestructura. 
