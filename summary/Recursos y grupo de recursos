@@ -1,0 +1,28 @@
+Un recurso:
+Es un elemento administable que proporciona Microsoft.  
+Algunas son: 
+Maquinas virtuales
+Cuentas de almacenamiento 
+Aplicaciones web
+Bases de datos
+Redes virtuales. 
+Los grupo de recursos, la suscripciones, grupos de administracion, y las etiquetas son ejemplos de recursos.
+
+Grupo de recursos:
+Contenedor logico que el principal uso es que permite agrupar los recursos. 
+(La plataforma no permite tener recursos no agrupados). 
+Puede incluir todos los recursos o solamente aquellos que se desean administrar como grupo. 
+Se recomienda agrupar recursos que compartan el mismo ciclo de vida para que se pueda administrar, implementar y 
+eliminar como grupo. 
+
+Recursos y grupos de recursos estan sujetos. Si se elimina un grupo de recursos tambien se eliminaran
+los recursos contenidos en el grupo y viceversa. 
+
+Consideraciones: 
+Cada recurso puede existir en un UNICO grupo de recursos. 
+Se puede modificar o quitar un recurso de un grupo de recursos.  
+Migracion de recursos entre grupos. 
+Los recursos pueden encontrarse en regiones distintas al grupo de recursos. 
+Se aplican etiquetas al grupo de recursos. (Recursos no heredan esas etiquetas). 
+Puede haber conexion entre recursos de diferentes grupos. 
+
