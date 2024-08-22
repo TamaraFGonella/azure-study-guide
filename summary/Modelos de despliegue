@@ -3,3 +3,22 @@ Los tres modelos de despliegue en Cloud son:
 • Privado. 
 • Publico.
 • Hibrido. 
+
+Nube pública:
+No hay gastos de capital para escalar verticalmente.
+Las aplicaciones pueden aprovisionarse y desaprovisionarse rápidamente. 
+Las organizaciones solo pagan por lo que usan. 
+Las organizaciones no tienen un control total de los recursos y la seguridad. 
+
+	
+Nube privada:
+Las organizaciones tienen un control total de los recursos y la seguridad. 
+Los datos no se colocan con los datos de otras organizaciones. 
+Debe adquirirse hardware para la puesta en funcionamiento y el mantenimiento. 
+Las organizaciones son responsables del mantenimiento y las actualizaciones del hardware. 
+
+	
+Nube híbrida:
+Proporciona la máxima flexibilidad. 
+Las organizaciones determinan dónde se van a ejecutar sus aplicaciones. 
+Las organizaciones controlan la seguridad, el cumplimiento o los requisitos legales. 
