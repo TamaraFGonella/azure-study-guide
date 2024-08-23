@@ -1,0 +1,20 @@
+CIDR. 
+  IP publica (nos podemos conectar local).
+  grupo de seguridad = componente adicional por fuera de la vm que controla el trafico entrante
+  y saliente. (tipo de firewall). 
+NIC = interface de red. (placa de red de vm). 
+  load balancer = redirige el trafijo (red) hacia un servidor u otro. 
+  gateway = balancea aplicaciones. 
+  Microsoft defender for cloud =?
+  identity managed = identificador para otorgar permisos. ID. (en azure). tenant
+  SID (nombre de virtual en windows) 
+  inicia sesion con Microsoft ID (se puede loguear a la vm con user). 
+  extensiones (aplicativos por fuera sicronizados con la vm por ejemplo Powershell). 
+  reserva de capacidad: reserva de recursos, memoria, almacenamiento. 
+    grupo con ubicacion con proximidad = datacenter mas cerca del cliente. 
+    etiquetas = cada recurso que se crea debera ser etiquetado. taggear recursos. 
+    3389 puerto windows. 
+    grupo de recursos = agrupacion de recursos. 
+    
+  
+  
