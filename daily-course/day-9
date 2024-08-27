@@ -1,0 +1,30 @@
+VDI = Infraestructura que permite crear maquina virtual para asignarla a determinados usuarios. 
+VM = maquina virtual. 
+Almacenamiento: 
+Disco en la nube. = storage account (azure) / bucket (aws)
+cuand0 se crea recurso hay que preguntar en que suscripcion y en que recurso, eso depende la organizacion
+de la empresa. 
+desde marketplace se busca el recurso. 
+storage account. nombre en minuscula. 
+ingresar region (misma del gruop resource). 
+  redundancia: disponibilidad. que tan disponible esta el recurso. (
+    LRS = replica en el mismo datacenter
+  ZRS = replicado en otro datacenter
+  GZRS = replicar en mismo y diferente datacenter. opcion mas optima). 
+    se puede actualizar la redundancia. 
+    version de TLS. (protocolo de autenticacion para intercambiar informacion). transporter layer security. = 
+    configurar siempre la ultima version para no dejar un hueco de inseguridad. 
+    data lake storage gen2 = almacenar datos de gran volumen. (terasbyte) aneble hierarchical namespace. 
+enable SFTP = servicio que permite la transferencia de archivos (protocolo). 
+    blob storage = conteiner. 
+    tier = capas de almacenamiento. 
+    add private endpoint. general ya estan protegidos los recursos. 
+    data protection = punto de restauracion que tiene windows. 
+    blobs = repositorio de alacenamiento que contiene archivos y se toma como fuente de datos. 
+    encryption = metodo de seguridad administrada por mi mismo, o por Microsoft. (mediante software). 
+    tag o label = etiquetas. (medida de seguridad y financiera es nuestra responsabilidad avisar a la empresa 
+                             para identeificar)
+    template = codigo para crear. 
+    custom deployment = descargar template. 
+    edite template = cargarlo. 
+    Se creo STORAGE ACCOUNT. 
