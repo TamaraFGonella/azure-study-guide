@@ -1,0 +1,19 @@
+ya se sabe como realizar una maquina virtual. 
+  y se conoce SSH KEY. 
+  SSH es un protocolo de intercambio de informacion entre dos puntos.. (genera clave. clave privada
+                                                                        y clave publica)
+  alojada en el servidor al cual quiero conectarme. 
+  la informacion esta encriptada. (es como si el archivo esta dentro de una caja)
+  clave privada descifra lo encriptado en la clave publica. 
+  BUSCAR: ACCESO VIA SSH. 
+  el usuario se conecta via SSH, siempre se realiza mediante clave privada (candado abierto) 
+    clave publica se encuentra del lado public. = asegura que este protegido. 
+    la clave privada es para la conexion al servidor. 
+
+    BYOD = 
+    Auditar equipo personal con herramientas de la empresa para trabajar. 
+    Se instala agente, firewall, etc. 
+
+  HYPER-V = hipervisor que permite virtualizar maquinas virtuales. 
+  VMWARE (maquinas virtuales con sistema operativo cliente). 
+hardware - SO - hipervisor o sistema de virtualizacion. (vitualbox). 
