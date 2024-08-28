@@ -1,0 +1,19 @@
+¿Qué es una zona de disponibilidad de Azure? Las zonas de disponibilidad de Azure son centros de datos separados física 
+y lógicamente con su propia fuente de alimentación, red y refrigeración independientes.
+
+Las zonas de disponibilidad estan conectadas entre si, mediante un enlace de baja latencia. (Inferior a 2 milisegundos)
+Cada zona de disponibilidad (AZ Availability zone) es uno o varios centros de datos discretos con alimentacion,
+red, y conectividad redundante. 
+Estan separadas una de otras . Aisladas de la catastrofes. 
+(NO TODAS LAS REGIONES DE AZURE TIENEN ZONA DE DISPONIBILIDAD, hay regiones con 1 datacenter). 
+
+En 1 region se encuentran zonas de disponibilidad (con varios datacenters) que se conectan entre ellas.
+Estan ubicadas siguiendo un sentido, aislar catastrofes asegurando que siempre haya disponibilidad. 
+
+A fin de proteger la información en caso de error, deberá asegurarse de que los servicios y datos son redundantes.
+Si hospeda su infraestructura, configurar su propia redundancia requiere la creación de entornos de hardware duplicados.
+Azure puede ayudar a que la aplicación tenga alta disponibilidad a través de zonas de disponibilidad.
+
+
+
+
