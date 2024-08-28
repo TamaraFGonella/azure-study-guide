@@ -1,1 +1,8 @@
-
+Azure tiene una infraestructura global. 
+Regiones de Azure. (Hace que Azure este por todo el mundo). 
+Hay dos tipos de regiones. 
+Regiones emparejadas
+Regiones soberanas. 
+Tambien, hay zona de disponibilidad. (Hay datacenters en las zonas). Permite replicar los datos teniendo asi una alta 
+disponibilidad. 
+PoP = Punto de presencia de Azure. Lo que permite llegar a todas partes del mundo.
