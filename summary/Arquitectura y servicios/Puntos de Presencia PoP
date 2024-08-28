@@ -1,0 +1,14 @@
+Un punto de presencia se refiere a un punto FISICO de interconexion entre diferentes redes que facilita la entrega rapida
+y confiable de contenido y servicios a los usuarios finales. 
+
+Ventajas: 
+Reduccion de latencia y optimizacion de la velocidad de conexion. 
+Expansion global, Azure tiene PoPs distribuidos por varias localidades alrededor del mundo, facilitando
+la entrega a los usuarios finales. 
+
+¿Que diferencia hay entre una zona de disponibilidad y un punto de presencia?
+
+Una zona de disponilidad se encuentra dentro de una region de Cloud, los PoPs estan distribuidos globalmente, 
+en ciudades, o lugares cercanos a los usuarios finales. (Independientemente de las regiones). 
+El proposito de una AZ es la alta disponibilidad y prevenir catastrofes. 
+El proposito de PoPs es optimizar latencia y mejorar rendimiento. 
