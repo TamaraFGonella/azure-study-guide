@@ -1,0 +1,35 @@
+Una region es una ubicacion geografica especifica para ubicar nuestros recursos en esa zona. 
+Ventajas:
+Alta disponibilidad
+Baja latencia. (Clientes mas cerca)
+Cumplimiento de regulaciones gubernamentales. 
+
+¿Como elijo una region de Azure? ¿Donde lanzar una nueva aplicacion?
+
+Hay que considerar el cumplimiento de los requisitos legales y la gobernanza de datos. En funcion a la 
+zona geografica, las normas y reglas son totalmente diferentes. (Diferencia un pais del otro)
+
+Tambien, la proximidad a los clientes para reducir la latencia. 
+
+Servicios disponibles en la region. (Hay servicios que no estan en tal o tal region). 
+Analizar que servicios para ver que region utilizar. 
+
+Los prUUUUecios tambien varian segun la ubicacion geografica. 
+
+Tipos de regiones
+Region emparejadas: Cada region esta emparejada con otra en el mismo limite geopolitico. Se empareja para 
+resistir ante un error o una falla catastrofica en una region. (Si una region cae, todos los datos estan presentes
+                                                                en otro sitio). 
+Objetivos: Menos resiliencia y disponibilidad, asegurar la continuinidad del negocio y la recuperacion ante desastres. 
+Tiene actualizaciones secuenciales con el fin de minimixar interrupciones. Tambien tiene una opcion para replicar datos
+entre regiones emparejadas. 
+
+Regiones soberanas: Las regiones soberanas de Azure son centros de datos diseñados para cumplir las
+reglamentaciones de una Nacion y de cumplimiento de una jurisdiccion particular. 
+Microsoft no las administra. (Estan restringidas a determinados clientes). 
+Objetivos: Garantizar la soberania de datos y de privacidad, satisfacer necesidades reglamentarias locales. 
+Caracteristicas: Operacion y residencia de datos dentro de fronteras especificas. Conexion de redes mas aisladas y
+especificas de la region. (Hay una en China, en Alemania y una dedicada al gobierno de EEUU). 
+
+
+
