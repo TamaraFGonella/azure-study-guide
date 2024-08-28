@@ -1,0 +1,85 @@
+Continua Storage account. 
+  En overview se verifica el detalle del recurso e informacion adicional. 
+  En storage browser (buscar o explorar) = explorador de archivos tipo windows donde se puede ver lo almacenado. En Slogs se almacenan los logs
+  de almacenamiento. 
+  Storage account (not) vm. (recursos separados).
+  cada objeto backupeado (recurso adicional) tiene un costo en Azure.
+  Por defecto, aplica politica de retencion (scheduleo). 
+    vault = espacio de almacenamiento del backup. 
+    Queues = Enviar mensajes y que la aplicacion vaya leyendo la cola de mensajes. 
+    Tabla = Tabla para almacenar registros. (No relacional). 
+    Containers = 
+    Change access = acceso publico. Desde "settings/configuration" se otorgan los permisos. (allow blob anonimous
+                                                                                             readlable)
+    TEMPLATE ARM STORAGE ACCOUNT EJEMPLO Y DETALLE: 
+
+$schema: Especifica la URL del esquema que define la estructura y validación de este archivo JSON.
+
+contentVersion: Indica la versión del archivo de parámetros. En este caso, es la versión 1.0.0.0.
+
+parameters: Aquí se definen todos los parámetros que se utilizarán al desplegar el recurso.
+
+location: Especifica la región de Azure donde se desplegará el recurso (en este caso, eastus2).
+  
+storageAccountName: Define el nombre de la cuenta de almacenamiento (staccountdemo01).
+  
+accountType: Especifica el tipo de cuenta de almacenamiento (Standard_RAGRS, que es Standard Redundant Across Geo-Regions con Read Access).
+  
+kind: Define el tipo de almacenamiento (StorageV2 es la versión 2 de la cuenta de almacenamiento, que soporta características más avanzadas).
+
+  minimumTlsVersion: Establece la versión mínima de TLS (Transport Layer Security) que debe usarse (TLS1_2).
+
+    supportsHttpsTrafficOnly: Indica si solo se permite tráfico HTTPS (true).
+
+      allowBlobPublicAccess: Define si se permite acceso público a blobs (false).
+
+        allowSharedKeyAccess: Indica si se permite el acceso con claves compartidas (true).
+
+          defaultOAuth: Define si el acceso predeterminado debe ser con OAuth (false).
+
+            accessTier: Especifica el nivel de acceso (Hot, para acceso frecuente).
+
+              publicNetworkAccess: Determina si el acceso a la red pública está habilitado (Enabled).
+
+                allowCrossTenantReplication: Indica si se permite la replicación entre diferentes inquilinos (false).
+
+                  networkAclsBypass: Define qué servicios pueden evitar las reglas de lista de control de acceso de red (AzureServices).
+
+                    networkAclsDefaultAction: Especifica la acción predeterminada de las reglas de ACL de red (Allow).
+
+                      networkAclsIpRules: Lista de reglas de IP que se pueden aplicar (en este caso, está vacía).
+
+                        dnsEndpointType: Especifica el tipo de DNS (Standard).
+
+                          largeFileSharesState: Indica si el estado de compartición de archivos grandes está habilitado (Enabled).
+
+                            keySource: Fuente de claves de cifrado (Microsoft.Storage).
+
+                              encryptionEnabled: Si el cifrado está habilitado (true).
+
+                                keyTypeForTableAndQueueEncryption: Tipo de clave para cifrado de tablas y colas (Account).
+
+                                  infrastructureEncryptionEnabled: Indica si el cifrado de la infraestructura está habilitado (false).
+
+                                    isBlobSoftDeleteEnabled: Indica si el soft delete de blobs está habilitado (true).
+
+                                      blobSoftDeleteRetentionDays: Número de días para retener blobs eliminados (7).
+
+                                        isContainerSoftDeleteEnabled: Indica si el soft delete de contenedores está habilitado (true).
+
+                                          containerSoftDeleteRetentionDays: Número de días para retener contenedores eliminados (7).
+
+                                            isShareSoftDeleteEnabled: Indica si el soft delete de shares está habilitado (true).
+
+                                              shareSoftDeleteRetentionDays: Número de días para retener shares eliminados (7).
+
+ARM TEMPLATES.
+Terraform = lenguaje para desplegar codigos de manera mas optima.
+Se menciono AZURE CLI. 
+Datafactory. 
+datalake = storage account para grandes volumenes de datos. 
+MAÑANA:
+Azure ID - ACTIVE DIRECTORY ..- Estudiar. 
+
+                                                
+    
