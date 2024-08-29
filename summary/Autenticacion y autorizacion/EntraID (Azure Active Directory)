@@ -1,0 +1,17 @@
+Microsoft EntraID: Es un servicio de gestion de identidades en la nube ofrecido por Microsoft. 
+Esta construido para trabajar en la nube, y ofrece una serie de funcionalidades y caracteristicas dirigidas a apps webs y moviles. 
+NO debe confundirse con Active Directory tradicional, que se instala y ejecuta en servidores locales. 
+
+(Active Directory tradicional: es un sistema que permite operaciones como autenticacion, gestion de cuentas de usuario, 
+gestion de grupos, politicas de grupos, servicios de directorios, etc). 
+
+EntraID esta enfocado en la NUBE donde se controla esta caracteristicas pero en la nube de Azure. 
+
+Caracteristicas: 
+Gestion de identidades y acceso 
+Integracion de aplicaciones
+Desarrollo de aplicaciones
+Seguridad e inteligencia. 
+
+Inquilino (Tenant). 
+- Un inquilino representa una organizacion. 
