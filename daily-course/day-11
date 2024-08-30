@@ -1,0 +1,13 @@
+Active Directory de Microsoft: SISTEMA JERARQUICO. Es una base de datos para almacenar objetos.
+  Nos ofrece la posibilidad de gestionar las maquinas de nuestra red, nuestros usuarios y nuestros
+    recursos de manera centralizada. (A nivel empresa). 
+    SAM = db LOCAL. 
+    workgroup = grupo de trabajo, estan conectadas entre si pero son independientes. no tienen conexion centralizada. 
+      
+      DOMAIN CONTROL = Un controlador de dominio o DC es un servidor que tiene instalado windows server y ejecuta
+      Active Directory Domain Services. (Jefe de tu dominio). VERIFICA MEDIANTE AUTENTICACION Y AUTORIZACION. 
+
+      namespace: un dominio. pc1.dominio.local 
+        
+      
+  
