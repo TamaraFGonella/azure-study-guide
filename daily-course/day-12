@@ -1,0 +1,23 @@
+Active Directory es un SERVICIO de red que implemento en mi infraestructura.
+  El domain controller: replica. (puede haber varios)
+    domain admin: aquella persona con todos los permisos. 
+grupos de seguridad: creados para la otorgacion de permisos. 
+  VPN: especie de cable de red extendido de empresa a cloud. 
+    BUENAS PRACTICAS. (BUSCAR)
+
+    AD EN CLOUD. CUENTA ADMIN GLOBAL: Seria como domain admin en onprem.
+    Dominio en nube: Tenant. independente del otro.
+      management group: administrar las suscripciones. para administrar logicamente la empresa. Administrar
+        de manera centralizada todas las suscripciones. 
+
+        MDM: Politica de seguridad movil.
+          Entra CONNECT: Permite conectar onprem con cloud. 
+            
+          
+        
+        
+        
+      
+
+    
+  
