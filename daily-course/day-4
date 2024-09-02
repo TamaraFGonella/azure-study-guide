@@ -2,7 +2,12 @@ un recurso tiene que ser parte de un grupo de trabajo y el mismo en una suscripc
 podemos tener suscripciones ilimitadas. 
 las suscripciones pueden estar separadas con ambientes. (dev, testing, prod)
 el grupo de recurso se puede crear antes o mediante la creacion de recurso. 
-consultar : IMAGE EN AZURE. especie de sistema operativo. herramienta de monitoreo
+consultar : IMAGE EN AZURE. (se refiere a una plantilla de un sistema operativo o de una máquina virtual (VM) que incluye una configuración específica,
+como software preinstalado, configuraciones del sistema operativo, y otros ajustes.
+Las imágenes se utilizan para crear nuevas máquinas virtuales en Azure, permitiendo que estas VM se configuren 
+de manera rápida y consistente.especie de sistema operativo.
+
+herramienta de monitoreo
 agente de antivirus. 
 
 Division de responsabilidad. 
