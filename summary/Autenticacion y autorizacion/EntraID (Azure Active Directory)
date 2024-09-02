@@ -8,10 +8,13 @@ gestion de grupos, politicas de grupos, servicios de directorios, etc).
 EntraID esta enfocado en la NUBE donde se controla esta caracteristicas pero en la nube de Azure. 
 
 Caracteristicas: 
-Gestion de identidades y acceso 
-Integracion de aplicaciones
-Desarrollo de aplicaciones
-Seguridad e inteligencia. 
+Gestion de identidades y acceso: Permite la gestion centralizada de usuarios y grupos, 
+capacidades de inicio de sesion (SSO) y autenticacion multifactor (MFA).
+Integracion de aplicaciones: Facil integracion con aplicaciones y servicios tanto en la nube
+como en las instalaciones. 
+Desarrollo de aplicaciones: Los desarrolladores pueden utilizar Microsoft EntraID como plataforma 
+de identidad para sus aplicaciones. 
+Seguridad e inteligencia: Microsoft ofrece capacidades de seguridad avanzadas mediante Microsoft EntraiD Protection. 
 
 Inquilino (Tenant). 
 - Un inquilino representa una organizacion. 
