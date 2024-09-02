@@ -1,4 +1,6 @@
-CIDR. 
+CIDR (Classless Inter-Domain Routing) es un método para asignar direcciones IP y enrutar el tráfico en redes IP. 
+
+
   IP publica (nos podemos conectar local).
   grupo de seguridad = componente adicional por fuera de la vm que controla el trafico entrante
   y saliente. (tipo de firewall). 
