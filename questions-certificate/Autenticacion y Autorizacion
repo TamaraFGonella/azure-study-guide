@@ -1,0 +1,88 @@
+Pregunta 1:
+¿Cuál de las siguientes opciones describe mejor la autenticación?
+A) Otorgar permisos para acceder a recursos especificos.
+B) Verificar identidad de un usuario. ✓ 
+C) Proporcionar inicio de sesion unico. 
+D) Acceso sin contraseña. 
+La autenticación es el proceso de confirmar que alguien es quien dice ser.
+
+Pregunta 2:
+¿Qué era conocido anteriormente como Microsoft Entra ID?
+A) Autenticacion multifactor. 
+B) Inicio de sesion unico. 
+C) Azure Active Directory (AZURE ID) ✓
+D) Confianza cero. 
+Microsoft Entra ID solía llamarse Azure Active Directory (Azure AD)
+
+Pregunta 3: 
+¿Cuál es el principio fundamental de la confianza cero?
+A) Autenticarse utilizando multiples factores. 
+B) No confiar en ningun usuario o dispositivo independientemente de la red. ✓
+C) Permitir acceso sin contraseña. 
+D) Permitir acceso a usuarios externos. 
+La confianza cero se basa en el principio de no confiar en nada dentro o fuera de las redes corporativas.
+
+Pregunta 4:
+¿Qué define la autenticación multifactor?
+A) Uso de unica contraseña para acceder. 
+B) Verificacion basada en la confianza cero. 
+C) Uso de multiples metodos para verificar la identidad del usuario. ✓
+D) Otorgar acceso basado en condiciones especificas. 
+MFA implica el uso de dos o más métodos de verificación para asegurarse de que un usuario es legítimo.
+
+Pregunta 5:
+¿Qué determina el acceso condicional?
+A) Si un usuario esta autenticado. 
+B) Si el usuario utiliza MFA. 
+C) Las condiciones a las cuales se le permite el acceso a recursos. ✓ 
+D) Si el usuario tiene una contraseña. 
+El acceso condicional permite o niega el acceso basándose en ciertas condiciones.
+
+Pregunta 6:
+¿Qué significa "Sin contraseña" en términos de acceso?
+A) Uso de contraseñas simples.
+B) Uso de multiples contraseñas. 
+C) Autenticacion basadas en algo distinto a contraseñas tradicionales. ✓
+D) Almacenar contraseñas en la nube. 
+Sin contraseña" se refiere a métodos de autenticación que no dependen de contraseñas tradicionales". 
+
+Pregunta 7:
+¿Qué permite el acceso de usuarios externos?
+A) Autenticacion MFA para todos los usuarios. 
+B) Acceso de personas ajenas a la organizacion a ciertos recursos. ✓
+C) Bloqueo de todos los usuarios que no pertenecen a la organizacion. 
+D) Acceso solo a traves de Microsoft EntraID. 
+El acceso de usuarios externos se refiere a permitir a personas fuera de la organización acceder a ciertos recursos. 
+
+Pregunta 8:
+¿Qué es Azure AD DS?
+A) Una version mejorada al acceso de inicio de sesion unico (SSO). 
+B) Un servicio que permite autenticacion sin contraseña. 
+C) Una funcion de confianza cero. 
+D) Un servicio que proporciona capacidades de directorio administradas en la nube. ✓
+Azure AD DS es una extensión de Microsoft Entra ID que ofrece capacidades de directorio tradicionales pero administradas en la nube
+
+Pregunta 9:
+¿Qué facilita el inicio de sesión único (SSO)?
+A) Requerir multiples contraseñas para diferentes servicios. 
+B) Autenticar a usuarios para multiples aplicaciones con un solo inicio de sesion. ✓
+C) Bloquear acceso de usuarios externos. 
+D) Usar una unica forma de autenticacion. 
+SSO permite a los usuarios acceder a múltiples aplicaciones o servicios con una única autenticación.
+
+Pregunta 10:
+¿Qué diferencia fundamental existe entre autenticación y autorización?
+A) Ambas se refieren a permitir el acceso basado en roles. 
+B) La autenticacion verifica identidad, mientras que autorizacion otorga permisos basados en esa identidad. ✓
+C) Ambas se basan en la confianza cero. 
+D) La autenticacion utiliza Microsoft ID y la autorizacion no. 
+La autenticación se refiere a la verificación de la identidad de un usuario, mientras que la autorización se refiere a
+otorgar o negar permisos basándose en esa identidad verificada.
+
+Pregunta 11:
+¿Qué tecnología permite a los usuarios iniciar sesión en varias aplicaciones y servicios con una única autenticación?
+A) Acceso condicional. 
+B) SSO. ✓
+C) Sin contraseña. 
+D) Ninguna de las anteriores. 
+El Inicio de sesión único (SSO) permite a los usuarios acceder a múltiples servicios con una única autenticación.
