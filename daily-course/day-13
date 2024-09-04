@@ -1,2 +1,25 @@
-PRREGUNTA ¿Todas las suscripciones tienen que estar dentro de una carpeta, management gruop como los recursos?. 
-  
+PRREGUNTA ¿Todas las suscripciones tienen que estar dentro de una carpeta, management gruop como los recursos?.
+TENANT: Hace relacion a Active directory (estan dentro de forest). 
+
+TENANT- SUSCRIPCIONES (ilimitadas) - 
+Management group = herramienta centralizada para administrar las suscipciones.
+  ROOT MG. (buscar).
+cada entorno de suscripciones tiene su management group. (metodo de organizacion). 
+ active directory es una unidad logica de organizacion empresarial. 
+
+IAM (view my access) = Ver que tipo de permisos y accesos mio y de todos los usuarios. 
+CONTRIBUTOR = rol que se otorga para administrar dentro de la suscripcion, no puede 
+asignar roles. 
+OWNER = Permisos totales. 
+AZURE RBAC (Roles basado en el control de acceso). 
+BUILTIN ROLE: Azure. 
+role assignment = otorgar un rol a un usuario existente. (se tiene que ver en EntraID o AzureID). 
+HOME - USERS - BUSCAR O CREAR EL USUARIO - SINCRONIZAR CON EL ACTIVE DIRECTORY A ENTRAID. Mediante EntraIDCONNECT.
+ENTRAID CONNECT. Intermedio para sincronizar los usuarios AD con EntraID. 
+
+
+
+
+
+
+
