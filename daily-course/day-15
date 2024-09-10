@@ -1,0 +1,29 @@
+Azure action group componente que realiza una accion a traves de que dispara una alerta. 
+  MSTP = Servicio para enviar correo.
+  Action Type (accion que decidimos disparar).
+  Automation Runbook = Dispara sript. (Elegimos accion creada, se elije suscripcion). 
+  deberia tener un automationaccount para crear un accion runbook.
+  CONSULTA ¿En la opcion que dispara script y hay opciones sugeridas, en que lenguaje es y 
+    como se corre?
+    Azure Function es lo que nos permite disparar acciones, las cuales estan sujetas
+      a la calidad del codigo. Puede ser en cualquier lenguaje. 
+      Se notifica mediante mail. 
+
+      Los costos en la nube se registran el dia posterior. (24hs). 
+      Ninguna nube es inmediata en los costos. 
+
+      POWER BI. Refresca informacion en un doshboard. Herramienta de analitica. 
+      POWER BI Query- 
+      Analitica de datos, generar un modelo. 
+        Savings plans = Microsoft te ofrece un plan de costo. (ofrece 12 meses). 
+Beneficios hybridos = Recursos onprem que si le indicas a Microsoft hace un descuento.
+      SCOPE = ???
+        Overwiew combinado con Power Bi. 
+    Tagear o etiquetar recursos. "Nombre de recursos" para automatizar
+        e identificar tareas generales.  
+        Se taggea recursos. 
+        ¿que datos van en el tag?.
+        BLUEPRINTS. 
+        
+      
+    
