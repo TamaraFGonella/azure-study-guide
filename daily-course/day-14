@@ -1,0 +1,34 @@
+EntraID. (medio de sincronizacion de onpremises a cloud). 
+  Crear un usuario directamente en la nube o sincronizar los usuarios de nuestro AD por Connect. 
+  Administradores pueden otorgar permisos definiendo el rol del permiso.
+  Los roles determinan las acciones. 
+  RBAC.
+  EntraID (Rol de ciberseguridad).
+  DBA = IAM Access Control. (Lo que se puede realizar dentro de la suscripcion). 
+  Se pueden otorgar permisos dentro de la suscripcion (A nivel de recursos, grupo de 
+                                                       recursos). 
+  Es mejor gestion otorgar permisos a nivel grupo de recursos. 
+  Existe una calculadra en Microsoft es un apoyo que estima los costos de los recursos 
+  de manera actualizada con el fin de brindar un costo estimado desde la calculadora.
+  Azure Cost Management = Herramienta dentro de Azure que permite realizar un analisis de costos.
+  se pueden ver los costos diarios. 
+  rg = resource group. 
+  finops = operadores financieros. Son los encargados de llevar 
+  las finanzas empresariales a nivel de recursos.
+  new support request = soporte de cloud azure. 
+  (la visual es muy clara, se podrian realizar recursos y assesment a partir de las 
+   graficas que ya te ofrece azure). 
+  taggear es importante para traer todos los recursos relacionados a un proyecto en 
+  particular. PREGUNTAR --- 
+  desde Export se puede exportar un reporte.
+  Se pueden generar alertas. (Cloud Functions in GCP) 
+  AUTOMATIZADO EN AZURE: Azure Function en Azure. CREATE BUDGET. 
+  CREATE ACTION GROUP para ponerle un limite al budget. 
+  AZ 104 DE ADMINISTRADORES. 
+  900 (Fundamentals). 
+    ¿el action budget es la herramienta para automatizar de azure?. 
+    https://www.examtopics.com/exams/microsoft/az-900/ ejemplo de examen. 
+  
+  
+
+  
