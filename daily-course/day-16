@@ -1,0 +1,26 @@
+GOBERNANZA. 
+
+Las suscripciones vienen con unos roles de permisos asignados. 
+  En la creacion misma configuramos las condiciones y consideraciones.
+  BLUEPRINTS = Desplegar SUSCRIPCIONES personalizadas con las configuraciones ya realizadas.
+  BLUEPRINTS HERRAMIENTA PARA DESPLEGAR SUSCRIPCIONES YA PRECONFIGURADAS. 
+
+  Herramientas de Gobernanza. 
+  Politica que indique como debemos manejarnos en la nube. (Definido por la empresa). 
+  Azure Policy es un servicio de Azure que permite crear, asignar y administrar 
+    directivas que controlan los recursos. 
+    Por ejemplo, Una politica indica que los recursos se creen en X region.
+      Indicaciones para PERMITIR o DENEGAR.
+
+      LA POLICY ESTA POR ENCIMA DE LOS ROLES. 
+      
+      TIPO DE BLOQUEOS DE RECURSOS = LOCKS. 
+      Se puede hacer a nivel de recursos o grupo de recursos o suscripciones. 
+      (son heredados). 
+      Los permisos habilitados son Owner y Contributor
+      ReadOnly
+      Eliminar. 
+
+      RBAC = El roler based access control.
+
+      
