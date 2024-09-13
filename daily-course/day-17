@@ -1,0 +1,20 @@
+LOCKS. 
+
+  PORTAL DE CONFIANZA =
+  Service trust portal. Gobernanza de datos. = Ver que tipo de regulacion corre en nuestros servicios. 
+
+  Herramientas de administracion de Azure. 
+  Azure portal (ingresar al portal e implementar recursos). 
+  Azure CloudShell (Incluida con el portal. Herramienta para el despliegue de recursos en Azure).
+  Azure Resource Manager (ARM). Plantillas de codigo lenguaje terraform para desplegar recursos. 
+
+  Hay que instalarse el binomio de AZ para utilizar AZ CLI en Azure. 
+  POWESHELL
+  AZURE CLI = AZ (Sintanxis del codigo). 
+  CMD
+  BASH
+  Consola de lineas con diferentes lenguajes. 
+  
+  
+
+  
